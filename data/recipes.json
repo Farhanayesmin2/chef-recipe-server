@@ -3,7 +3,12 @@
     {
       "_id": "1",
       "category_id": "01",
-      "chef_name": "Kishwar Chowdhury",
+    "chefPicture": "https://images.hindustantimes.com/img/2021/07/16/original/Kishwar_Chowdhary_1626416395536.jpg",
+    "chefName": "Kishwar Chowdhury",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 70,
+    "likes": 2500,
+    "description": "Kishwar Chowdhury, a Bangladeshi from Melbourne, Australia is set to appear on the newest season of MasterChef Australia.In conversation with the Huffington post, Kishwar revealed she comes from “a big family of cooks”, and is proud of using recipes from her loved ones to make her own versions of them in the kitchen.“The Bengali cuisine that I carry with me has been passed down from generation to generation. I’ve always taken a little creative licence with it,” she says.",
       "recipes": [
         {
           "recipe_name": "Beef Curry",
@@ -55,7 +60,12 @@
     {
       "_id": "2",
       "category_id": "02",
-      "chef_name": "Fatima Begum",
+      "chefPicture": "https://www.acdivoca.org/wp-content/uploads/2019/06/Feed-Future-Bangladesh-RDC-Nutri-Champs-1024x576.jpg",
+    "chefName": "Fatima Begum",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 2000,
+    "description": "Fatima Begum is a Bangladeshi chef who is known for her ability to create delicious and healthy dishes. She is passionate about using fresh, locally sourced ingredients and is known for her use of herbs and spices to add flavor to her dishes. She has worked in some of the best restaurants in Bangladesh and is widely regarded as one of the best chefs in the country.",
       "recipes": [
         {
           "recipe_name": "Chicken Biryani",
@@ -108,7 +118,12 @@
 {
   "_id": "3",
   "category_id": "03",
-  "chef_name": "Kamal Ahmed",
+   "chefName": "Kamal Ahmed",
+   "chefPicture": "https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/styles/hero_desktop/public/Shorno%20Chef.jpg?itok=5GfI_m6B",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 60,
+    "likes": 2200,
+    "description": "Kamal Ahmed is a Bangladeshi chef who has worked in some of the best restaurants in Bangladesh and the United States. He is passionate about creating new and innovative dishes that showcase the best of Bangladeshi cuisine. He is known for his use of traditional ingredients and his ability to create dishes that are both authentic and modern.",
   "recipes": [
     {
       "recipe_name": "Chingri Malai Curry",
@@ -161,7 +176,13 @@
 {
   "_id": "4",
   "category_id": "04",
-  "chef_name": "Atika Rahman",
+"chefName": "Atika Rahman",
+ "chefPicture": "https://d1oh9y2nmj4y5b.cloudfront.net/uploads/photo/filename/574/7_Nahid_foodResizedForWeb.jpg",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 40,
+    "likes": 1800,
+    "description": "Atika Rahman is a Bangladeshi chef who is known for her use of fresh and flavorful ingredients. She is passionate about creating dishes that are both delicious and healthy and is widely regarded as one of the best chefs in Bangladesh. She has won numerous awards for her cooking and is known for her ability to create dishes that are both simple and elegant."
+  ,
   "recipes": [
     {
       "recipe_name": "Shorshe Ilish",
@@ -218,7 +239,13 @@
 {
   "_id": "5",
   "category_id": "05",
-  "chef_name": "Sadia Islam",
+   "chefName": "Sadia Islam",
+    "chefPicture": "https://previews.123rf.com/images/serezniy/serezniy1301/serezniy130106864/21537899-young-woman-chef-cooking-in-kitchen.jpg",
+    "yearsOfExperience": 6,
+    "numberOfRecipes": 30,
+    "likes": 1500,
+    "description": "Sadia Islam is a Bangladeshi chef who is passionate about creating dishes that are both delicious and beautiful. She is known for her attention to detail and her ability to create dishes that are visually stunning. She has worked in some of the best restaurants in Bangladesh and is widely regarded as one of the most talented chefs in the country."
+  ,
   "recipes": [
     {
       "recipe_name": "Lamb Curry",
@@ -269,10 +296,15 @@
     }
   ]
 },
-{
+{  
   "_id": "6",
   "category_id": "06",
-  "chef_name": "Abdur Rahman",
+ "chefName": "Abdur Rahman",
+  "chefPicture": "https://lesaffre.com.bd/wp-content/uploads/2020/05/baking-center-3.jpg",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 100,
+    "likes": 3500,
+    "description": "Abdur Rahman is a Bangladeshi chef who is passionate about creating dishes that are both delicious and unique. He has worked in some of special event and some bridal event management as one of the most talented chefs in the country.",
   "recipes": [
     {
       "recipe_name": "Aloo Puri",

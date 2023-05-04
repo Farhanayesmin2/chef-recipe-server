@@ -1,0 +1,335 @@
+{
+  "recipes": [
+    {
+      "_id": "1",
+      "category_id": "01",
+      "chef_name": "Kishwar Chowdhury",
+      "recipes": [
+        {
+          "recipe_name": "Beef Curry",
+          "ingredients": [
+            "1 lb beef",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "2 tbsp curry powder",
+            "1 tsp salt"
+          ],
+          "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add beef and cook until browned. Add curry powder and salt, stir to coat. Add water and simmer for 30-40 minutes. Serve with rice.",
+          "rating": 4.3,
+          "favorite": false
+        },
+        {
+          "recipe_name": "Fish Curry",
+          "ingredients": [
+            "1 lb fish",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "1 can coconut milk",
+            "2 tbsp curry powder",
+            "1 tsp salt"
+          ],
+          "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add fish and cook until tender. Add coconut milk, curry powder, and salt, stir to combine. Simmer for 10-15 minutes. Serve with rice.",
+          "rating": 4.2,
+          "favorite": true
+        },
+        {
+          "recipe_name": "Mixed Vegetable Curry",
+          "ingredients": [
+            "1 cup potatoes",
+            "1 cup carrots",
+            "1 cup green beans",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "2 tbsp curry powder",
+            "1 tsp salt"
+          ],
+          "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add vegetables and cook until tender. Add curry powder and salt, stir to coat. Add water and simmer for 10-15 minutes. Serve with rice.",
+          "rating": 4.7,
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "category_id": "02",
+      "chef_name": "Fatima Begum",
+      "recipes": [
+        {
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "2 lbs chicken",
+            "2 cups basmati rice",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "2 tbsp biryani spice mix",
+            "1 tsp salt"
+          ],
+          "cooking_method": "Cook rice according to package instructions. In a separate pan, cook onion, garlic, and ginger until softened. Add chicken and cook until browned. Add biryani spice mix and salt, stir to coat. Layer rice and chicken mixture in a pot. Cover and simmer for 20-30 minutes. Serve hot.",
+          "rating": 4.5,
+          "favorite": true
+        },
+       {
+  "recipe_name": "Daal",
+  "ingredients": [
+    "1 cup red lentils",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 inch ginger, grated",
+    "2 tbsp ghee",
+    "2 tsp cumin",
+    "1 tsp salt"
+  ],
+  "cooking_method": "In a pot, cook onion, garlic, and ginger until softened. Add lentils and enough water to cover. Bring to a boil and reduce heat to simmer. Cook for 20-25 minutes or until lentils are tender. In a separate pan, heat ghee and add cumin seeds. Cook until fragrant. Add the cooked lentils to the pan and stir to combine. Add salt to taste. Serve hot with rice or naan.",
+  "rating": 4.1,
+  "favorite": false
+},
+  {
+          "recipe_name": "Small Fish Curry",
+          "ingredients": [
+            "1 lb fish",
+            "1 onion, sliced",
+            "2 cloves garlic, minced",
+            "1 inch ginger, grated",
+            "1 can coconut milk",
+            "2 tbsp curry powder",
+            "1 tsp salt"
+          ],
+          "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add fish and cook until tender. Add coconut milk, curry powder, and salt, stir to combine. Simmer for 10-15 minutes. Serve with rice.",
+          "rating": 4.2,
+          "favorite": true
+         }
+      ]
+    },
+
+{
+  "_id": "3",
+  "category_id": "03",
+  "chef_name": "Kamal Ahmed",
+  "recipes": [
+    {
+      "recipe_name": "Chingri Malai Curry",
+      "ingredients": [
+        "1 lb shrimp",
+        "1 onion, sliced",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "1 can coconut milk",
+        "2 tbsp curry powder",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add shrimp and cook until pink. Add coconut milk, curry powder, and salt, stir to combine. Simmer for 10-15 minutes. Serve with rice.",
+      "rating": 4.6,
+      "favorite": false
+    },
+    {
+      "recipe_name": "Chicken Rezala",
+      "ingredients": [
+        "2 lbs chicken",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "1 cup yogurt",
+        "1 tsp garam masala",
+        "1 tsp coriander powder",
+        "1 tsp cumin powder",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pot, cook onion, garlic, and ginger until softened. Add chicken and cook until browned. Add yogurt and spices, stir to combine. Simmer for 20-25 minutes or until chicken is tender. Serve hot with rice or naan.",
+      "rating": 4.4,
+      "favorite": true
+    },
+    {
+      "recipe_name": "Aloo Posto",
+      "ingredients": [
+        "2 cups potatoes, diced",
+        "1 onion, chopped",
+        "2 tbsp poppy seeds",
+        "2 green chilies",
+        "1 tsp turmeric",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pan, heat poppy seeds until fragrant. Grind into a fine paste. In a separate pan, cook onion until softened. Add potatoes, turmeric, and salt. Stir to coat. Add water and simmer until potatoes are tender. Add poppy seed paste and green chilies, stir to combine. Simmer for 5-10 minutes. Serve hot with rice.",
+      "rating": 4.3,
+      "favorite": false
+    }
+  ]
+},
+{
+  "_id": "4",
+  "category_id": "04",
+  "chef_name": "Atika Rahman",
+  "recipes": [
+    {
+      "recipe_name": "Shorshe Ilish",
+      "ingredients": [
+        "1 lb hilsa fish",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "2 tbsp mustard paste",
+        "2 green chilies",
+        "1 tsp turmeric",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add fish and cook until tender. In a separate bowl, mix mustard paste with a little water to form a paste. Add the paste, green chilies, turmeric, and salt to the pan. Simmer for 10-15 minutes. Serve hot with rice.",
+      "rating": 4.8,
+      "favorite": true
+    },
+    {
+      "recipe_name": "Chana Masala",
+      "ingredients": [
+        "1 cup chickpeas",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "1 can diced tomatoes",
+        "1 tsp garam masala",
+        "1 tsp coriander powder",
+        "1 tsp cumin powder",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pot, cook onion, garlic, and ginger until softened. Add chickpeas and cook until tender. Add diced tomatoes and spices, stir to combine. Simmer for 10-15 minutes. Serve hot with rice or naan.",
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "recipe_name": "Aloo Gobi",
+      "ingredients": [
+        "2 cups potatoes, diced",
+        "2 cups cauliflower, chopped",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "1 tsp turmeric",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add potatoes and cauliflower, stir to coat. Add turmeric, cumin powder, coriander powder, and salt, stir to combine. Add water and simmer until vegetables are tender. Serve hot with rice or naan.",
+      "rating": 4.2,
+      "favorite": false
+    }
+  ]
+},
+{
+  "_id": "5",
+  "category_id": "05",
+  "chef_name": "Sadia Islam",
+  "recipes": [
+    {
+      "recipe_name": "Lamb Curry",
+      "ingredients": [
+        "1 lb lamb",
+        "1 onion, sliced",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "2 tbsp curry powder",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add lamb and cook until browned. Add curry powder and salt, stir to coat. Add water and simmer for 30-40 minutes. Serve with rice.",
+      "rating": 4.4,
+      "favorite": false
+    },
+    {
+      "recipe_name": "Shak Shak",
+      "ingredients": [
+        "4 cups spinach",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "2 green chilies",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pan, cook onion, garlic, and ginger until softened. Add spinach and cook until wilted. Add green chilies, cumin powder, coriander powder, and salt, stir to combine. Simmer for 5-10 minutes. Serve hot with rice.",
+      "rating": 4.1,
+      "favorite": true
+    },
+    {
+      "recipe_name": "Chicken Korma",
+      "ingredients": [
+        "2 lbs chicken",
+        "1 onion, sliced",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "1 cup yogurt",
+        "1 tsp garam masala",
+        "1 tsp coriander powder",
+        "1 tsp cumin powder",
+        "1 tsp salt"
+      ],
+      "cooking_method": "In a pot, cook onion, garlic, and ginger until softened. Add chicken and cook until browned. Add yogurt and spices, stir to combine. Simmer for 20-25 minutes or until chicken is tender. Serve hot with rice or naan.",
+      "rating": 4.3,
+      "favorite": false
+    }
+  ]
+},
+{
+  "_id": "6",
+  "category_id": "06",
+  "chef_name": "Abdur Rahman",
+  "recipes": [
+    {
+      "recipe_name": "Aloo Puri",
+      "ingredients": [
+        "2 cups potatoes, boiled and mashed",
+        "1 onion, chopped",
+        "2 green chilies",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1 tsp turmeric",
+        "1 tsp salt",
+        "2 cups flour",
+        "1/2 cup water",
+        "2 tbsp oil"
+      ],
+      "cooking_method": "In a pan, cook onion and green chilies until softened. Add cumin powder, coriander powder, turmeric, and salt, stir to combine. Add boiled and mashed potatoes, stir to coat. In a separate bowl, mix flour with water and oil to form a dough. Roll out the dough into circles and fill with the potato mixture. Deep fry until golden brown. Serve hot with chutney.",
+      "rating": 4.7,
+      "favorite": true
+    },
+    {
+      "recipe_name": "Fish Fry",
+      "ingredients": [
+        "1 lb fish fillets",
+        "2 tbsp lemon juice",
+        "1 tsp turmeric",
+        "1 tsp chili powder",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1 tsp salt"
+      ],
+      "cooking_method": "Marinate fish fillets in lemon juice, turmeric, chili powder, cumin powder, coriander powder, and salt for at least 30 minutes. In a pan, heat oil and fry the fish until golden brown. Serve hot with rice and salad.",
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "recipe_name": "Bhuna Khichuri",
+      "ingredients": [
+        "1 cup rice",
+        "1 cup lentils",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "2 green chilies",
+        "1 tsp cumin powder",
+        "1 tsp coriander powder",
+        "1 tsp turmeric",
+        "1 tsp salt",
+        "2 tbsp ghee"
+      ],
+      "cooking_method": "Wash rice and lentils and soak for 30 minutes. In a pot, cook onion, garlic, and ginger until softened. Add soaked rice and lentils, stir to coat. Add water, cumin powder, coriander powder, turmeric, and salt, stir to combine. Simmer until rice and lentils are cooked. In a separate pan, heat ghee and fry the green chilies until fragrant. Add to the pot and stir to combine. Serve hot with achar and papad.",
+      "rating": 4.2,
+      "favorite": false
+    }
+  ]
+} ]}
+
+
+
+
+

@@ -12,6 +12,7 @@
       "recipes": [
         {
           "recipe_name": "Beef Curry",
+          "recipe_img": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=600",
           "ingredients": [
             "1 lb beef",
             "1 onion, sliced",
@@ -26,6 +27,7 @@
         },
         {
           "recipe_name": "Fish Curry",
+           "recipe_img": "https://i.pinimg.com/564x/6e/37/82/6e3782b29f80e9e8b6be9efe2fc5ef90.jpg",
           "ingredients": [
             "1 lb fish",
             "1 onion, sliced",
@@ -41,6 +43,7 @@
         },
         {
           "recipe_name": "Mixed Vegetable Curry",
+           "recipe_img": "https://i.pinimg.com/236x/37/8c/c7/378cc7ba138b21946d2a7f1f847ae776.jpg",
           "ingredients": [
             "1 cup potatoes",
             "1 cup carrots",
@@ -69,6 +72,7 @@
       "recipes": [
         {
           "recipe_name": "Chicken Biryani",
+           "recipe_img": "https://i.pinimg.com/564x/57/2b/32/572b3270213eb2f65cae39340ef6d563.jpg",
           "ingredients": [
             "2 lbs chicken",
             "2 cups basmati rice",
@@ -84,6 +88,7 @@
         },
        {
   "recipe_name": "Daal",
+  "recipe_img": "https://i.pinimg.com/564x/97/3f/7f/973f7f1ca1d206739d81627bb2dcb7ca.jpg",
   "ingredients": [
     "1 cup red lentils",
     "1 onion, chopped",
@@ -99,6 +104,7 @@
 },
   {
           "recipe_name": "Small Fish Curry",
+          "recipe_img": "https://i.pinimg.com/564x/06/48/98/064898f70cce4c600ff0e85d7496a44a.jpg",
           "ingredients": [
             "1 lb fish",
             "1 onion, sliced",
@@ -119,6 +125,7 @@
   "_id": "3",
   "category_id": "03",
    "chefName": "Kamal Ahmed",
+   "recipe_img": " ",
    "chefPicture": "https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/styles/hero_desktop/public/Shorno%20Chef.jpg?itok=5GfI_m6B",
     "yearsOfExperience": 12,
     "numberOfRecipes": 60,
@@ -127,6 +134,7 @@
   "recipes": [
     {
       "recipe_name": "Chingri Malai Curry",
+       "recipe_img": " ",
       "ingredients": [
         "1 lb shrimp",
         "1 onion, sliced",
@@ -142,6 +150,7 @@
     },
     {
       "recipe_name": "Chicken Rezala",
+       "recipe_img": " ",
       "ingredients": [
         "2 lbs chicken",
         "1 onion, chopped",
@@ -159,6 +168,7 @@
     },
     {
       "recipe_name": "Aloo Posto",
+       "recipe_img": "https://i.pinimg.com/564x/d6/61/7e/d6617e8e8f3a4cee2e27c6bbb9820132.jpg ",
       "ingredients": [
         "2 cups potatoes, diced",
         "1 onion, chopped",
@@ -186,6 +196,7 @@
   "recipes": [
     {
       "recipe_name": "Shorshe Ilish",
+       "recipe_img": "https://i.pinimg.com/564x/6e/b7/3d/6eb73d457232de04efe597523fb32a49.jpg ",
       "ingredients": [
         "1 lb hilsa fish",
         "1 onion, chopped",
@@ -202,6 +213,7 @@
     },
     {
       "recipe_name": "Chana Masala",
+       "recipe_img": "https://i.pinimg.com/564x/b2/5c/1b/b25c1badbc756d2a18a25e960ad2a70d.jpg ",
       "ingredients": [
         "1 cup chickpeas",
         "1 onion, chopped",
@@ -218,7 +230,8 @@
       "favorite": false
     },
     {
-      "recipe_name": "Aloo Gobi",
+      "recipe_name": "Aloo Fulkopi",
+       "recipe_img": "https://i.pinimg.com/736x/bf/5a/89/bf5a897f23450b539ad98f4cdb841faa.jpg",
       "ingredients": [
         "2 cups potatoes, diced",
         "2 cups cauliflower, chopped",
@@ -249,6 +262,7 @@
   "recipes": [
     {
       "recipe_name": "Lamb Curry",
+       "recipe_img": "https://i.pinimg.com/564x/da/ef/44/daef44b29b396ca1182e26869506453c.jpg",
       "ingredients": [
         "1 lb lamb",
         "1 onion, sliced",
@@ -263,6 +277,7 @@
     },
     {
       "recipe_name": "Shak Shak",
+       "recipe_img": "https://i.pinimg.com/564x/fc/93/90/fc9390bf0634ce4a31dc8029503f2c5b.jpg ",
       "ingredients": [
         "4 cups spinach",
         "1 onion, chopped",
@@ -279,6 +294,7 @@
     },
     {
       "recipe_name": "Chicken Korma",
+       "recipe_img": "https://i.pinimg.com/564x/dc/9d/f2/dc9df2e7b258555a5674d98317c7931f.jpg ",
       "ingredients": [
         "2 lbs chicken",
         "1 onion, sliced",
@@ -308,6 +324,7 @@
   "recipes": [
     {
       "recipe_name": "Aloo Puri",
+       "recipe_img": "https://i.pinimg.com/564x/28/ef/50/28ef50fe99b210fc5c5067d3787fa194.jpg ",
       "ingredients": [
         "2 cups potatoes, boiled and mashed",
         "1 onion, chopped",
@@ -326,6 +343,7 @@
     },
     {
       "recipe_name": "Fish Fry",
+       "recipe_img": " https://i.pinimg.com/564x/6c/e6/e9/6ce6e973879a1dbf87da7cb9c13c920c.jpg",
       "ingredients": [
         "1 lb fish fillets",
         "2 tbsp lemon juice",
@@ -341,6 +359,7 @@
     },
     {
       "recipe_name": "Bhuna Khichuri",
+       "recipe_img": "https://i.pinimg.com/564x/8e/70/2a/8e702a9334429b1546ec1ed140c6872e.jpg ",
       "ingredients": [
         "1 cup rice",
         "1 cup lentils",

@@ -3,6 +3,7 @@ const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 5000;
 
+// middleware 
 app.use(cors());
 // Get the data
 const chef = require('./data/chef.json');
@@ -14,19 +15,11 @@ app.get('/', (req, res) => {
     res.send('api running in port 5000')
 })
 
-// Send data of chef
+// Send data of all chef
 app.get('/chef', (req, res) => {
     res.send(chef)
 });
 
-// // Get Specific id from Categories.
-// app.get('/recipes/:id', (req, res) => {
-//     const id = req.params.id;
-    
-//         const chefRecipes = recipes.filter(n => n.category_id === id);
-//         res.send(chefRecipes);
-    
-// });
 //All Specific chef
 app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
@@ -34,7 +27,7 @@ app.get('/chef/:id', (req, res) => {
     res.send(selectedchef)
 });
 
-
+// this is the main port for run data
 app.listen(port, () => {
     
 console.log('The port is runing on:',port);
